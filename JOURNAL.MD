@@ -96,6 +96,9 @@ i finally imported the ESP32's library and got rid of an error that bugged me:
 
 its time to actually take it away from the scheamtic :sob:
 
+![image](https://cdn.hackclub.com/019f2c7d-c2a2-781b-aa22-8cd8d2d46b23/paste-1783157867817.png)
+
+tried my best here but i kind of missed things and failed where I didnt fully think about each trace properly, ill look at this with a clearer mind tmr.
 
 
-hours spent: 5.5hrs
+hours spent: 6.5hrs

@@ -34,14 +34,12 @@ anyways here the schematic portion of my power portion before i begin working on
 #### the esp!
 
 i managed to import the esp from the library, and setup the EN pin as well as my power/gnd pins.
-i then realized that i also needed a usbc port to flash the esp, so i put that in as well
+i also needed the usbc port to flash the esp, so i put that in as well
 ![image](https://cdn.hackclub.com/019f2204-4903-7f1d-a60d-50d192ce9693/paste-1782982132334.png)
 
 
 then i spent some time trying to figure out how to connect the usbc connector and esp together, only the realize that i kinda have to shift everything around to not overlap wires.
 ![image](https://cdn.hackclub.com/019f2205-6288-7dda-b56c-75cd1b40ae89/paste-1782982204418.png)
-
-i am way too tired now though, a job for tomorrow.
 
 hours spent: 7.5hrs
 
@@ -77,7 +75,7 @@ added onto my drive module for the step motor
 ![image](https://cdn.hackclub.com/019f2c35-9d21-7365-98e8-6b6da6d51fbd/paste-1783153139503.png)
 
 
-i learned about global flags for the first time here, which wouldve really helped earlier but makes it so that theres not a massive wire run all the way from one side to the other (since the VMOT pin wants to be connected to the power source directly)
+i learned about global flags for the first time here, which wouldve really helped earlier but makes it so that theres not a massive wire run all the way from one side to the other (uh yeah you can tell for sure this is my first pcb by how messy my traces are, i know to use flags & power symbols instead in the future)
 
 yayyy i finished up the PCB design, although i ran into a few errors on the way
 
@@ -100,4 +98,4 @@ its time to actually take it away from the scheamtic :sob:
 
 
 
-hours spent: 
+hours spent: 5.5hrs

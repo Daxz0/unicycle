@@ -91,6 +91,11 @@ this was due to me having like the wrong kind of symbol or something, i swapped 
 -- after!
 ![image](https://cdn.hackclub.com/019f2c2c-dafb-7719-ac0f-403d0629d710/paste-1783152565383.png)
 
+i also finally figured out that importing libraries is actually super easy, i just didnt know the right menu for it (which is in the main menu)
+i finally imported the ESP32's library and got rid of an error that bugged me:
+
+> Error: Cannot add U1 (footprint 'Espressif:ESP32-S3-MINI-1' not found).
+
 its time to actually take it away from the scheamtic :sob:
 
 

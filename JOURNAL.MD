@@ -73,7 +73,10 @@ hours spent: 5hrs
 hi next evening it is.
 
 added onto my drive module for the step motor
+
 ![image](https://cdn.hackclub.com/019f2c35-9d21-7365-98e8-6b6da6d51fbd/paste-1783153139503.png)
+
+
 i learned about global flags for the first time here, which wouldve really helped earlier but makes it so that theres not a massive wire run all the way from one side to the other (since the VMOT pin wants to be connected to the power source directly)
 
 yayyy i finished up the PCB design, although i ran into a few errors on the way

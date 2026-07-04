@@ -32,3 +32,5 @@ then i spent some time trying to figure out how to connect the usbc connector an
 i am way too tired now though, a job for tomorrow.
 
 hours spent: 7.5hrs
+
+## 7/2/2026

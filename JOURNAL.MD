@@ -7,6 +7,18 @@ i saw a cool reel on instagram about pid tuning, and since i already tune my rob
 im also trying to learn on how to make a pcb, especially since i want to make one later down the road for my battlebot (so its not a jumble of wires)
 
 
+#### researching the components.
+im honestly just going to jump into it, and when the time calls for a specific component, i'll research it as it comes lmao.
+i know that i need at least:
+
+- wheel: to ya know be a unicycle
+- motor: power that wheel
+- IMU: detect when the robot is tilting
+- accelerometer: measure which way the robot is tilting
+- motor encoder: so i know how much to move the motor
+- some sort of microcontroller
+- something to control the motors
+
 #### the power portion:
 i downloaded kicad, and started just learning some basics of the software, the schematics, and to update the pcb, all that fun stuff
 

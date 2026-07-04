@@ -34,3 +34,50 @@ i am way too tired now though, a job for tomorrow.
 hours spent: 7.5hrs
 
 ## 7/2/2026
+
+tomorrow came, i slapped on the esc today
+
+![image](https://cdn.hackclub.com/019f2c31-6d68-7625-bd55-5e423d8901ea/paste-1783152865035.png)
+read some datasheets and somehow managed to get hopefully the right things wired up, and ERC is telling me no errors so far!!
+
+exciting stuff.
+
+begun to start connecting up the usbc connector so that I can actually flash this said esc
+![image](https://cdn.hackclub.com/019f2c32-4d7b-7d99-bbf2-26e06771a077/paste-1783152922526.png)
+
+i lowkey like thought that the wires couldnt cross and had a massive crashout about trying to route wires around, but silly me
+
+wired up the usbc connector to the rest of my power source on the 5v channel
+![image](https://cdn.hackclub.com/019f2c33-637b-716a-9b4e-5fbad5ae2f1b/paste-1783152993607.png)
+
+
+lastly to end the night, i wanted to also get in my accelometer, which is going to be the main thing actually letting me know when to correct the PID
+![image](https://cdn.hackclub.com/019f2c34-6839-7e8f-bb67-53fcf17a3a84/paste-1783153059733.png)
+
+hours spent: 5hrs
+
+## 7/4/2026
+
+hi next evening it is.
+
+added onto my drive module for the step motor
+![image](https://cdn.hackclub.com/019f2c35-9d21-7365-98e8-6b6da6d51fbd/paste-1783153139503.png)
+i learned about global flags for the first time here, which wouldve really helped earlier but makes it so that theres not a massive wire run all the way from one side to the other (since the VMOT pin wants to be connected to the power source directly)
+
+yayyy i finished up the PCB design, although i ran into a few errors on the way
+
+> Error: J2 pad B11 not found in Connector_USB:USB_C_Receptacle_GCT_USB4085.
+
+this was due to me having like the wrong kind of symbol or something, i swapped it out for a smaller version as per a kicad forum post and no errors! hope it works
+
+-- before
+![image](https://cdn.hackclub.com/019f2c2e-b765-7703-9684-7702a044ff6e/paste-1783152687612.png)
+
+-- after!
+![image](https://cdn.hackclub.com/019f2c2c-dafb-7719-ac0f-403d0629d710/paste-1783152565383.png)
+
+its time to actually take it away from the scheamtic :sob:
+
+
+
+hours spent: 

@@ -102,3 +102,23 @@ tried my best here but i kind of missed things and failed where I didnt fully th
 
 
 hours spent: 6.5hrs
+
+## 7/5/2026
+
+i was lowkey locked in so i missed some images, but i didnt realize a MASSIVE mistake from yesterday
+
+![image](https://cdn.hackclub.com/019f35e9-3fa1-73f4-b75e-af714aab58bd/paste-1783315905460.png)
+
+if you compare from yesterday, i was completely missing the ESP32  (the footprint never updated after i imported it i guess)
+
+originally i didnt realize that i could just follow my schematic (yeah kinda dumb i know) but following the actual schematic is so much easier than me trying to figure things out by seeing pad highlights and the rat nests.
+
+![image](https://cdn.hackclub.com/019f35ec-6226-7382-be3c-a2f20a86a411/paste-1783316110853.png)
+
+i also had to figure out the ground vias and the layers which was pretty straightforward if anything.
+the most annoying part i had with DRC is just how when i click the error the highlight is so tiny and i cant see!!
+
+i saved some room on the edges for future holes in the CAD mounting point, which speaking of is time to start up on that.
+theres some spoke errors and stuff but googles telling me its a simple fix so i will ignore ignore.
+
+hours spent: 6 hrs

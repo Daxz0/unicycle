@@ -161,5 +161,11 @@ actually, in theory the battery shouldnt fall out since the wires up top will be
 
 ![image](https://cdn.hackclub.com/019f45f0-9bcd-718e-9791-00291e7acc68/paste-1783584823701.png)
 
+wrote some preliminary code for the PID controller, well the PID controller doesnt exist yet but i added a foundation to be able to read the IMU and some safety features for when I can begin that.
 
-total hours: 6 hrs
+![image](https://cdn.hackclub.com/019f4606-bf84-7a04-bc5e-c11b42910ccf/paste-1783586274349.png)
+![image](https://cdn.hackclub.com/019f4607-815c-71df-89f1-bd68963c3339/paste-1783586324228.png)
+
+we have to use the sensitivity from the datasheet (for both the accelerometer and gyroscope) in order to convert the sensor readings into actual units to be usable.
+
+total hours: 7 hrs

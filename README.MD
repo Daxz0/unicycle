@@ -4,7 +4,7 @@ i was particulary inspired by instagram reels that showed robots demonstrating P
 
 i have some new members for my VEX Robotics team who are going to be learning about PID soon for their robots, so I wanted a nice way to demonstrate the concept since there are a lot of other variables when tuning a VEX robot.
 
-![image](https://cdn.hackclub.com/019f45dc-e4db-7dd1-b5bb-fced40566c6a/paste-1783583531268.png)
+![image](https://cdn.hackclub.com/019f45f0-fe00-7498-b544-27af4fe70314/paste-1783584848591.png)
 
 ### Assembly
 The following includes which each component in the BOM.csv correlates to the reference on the PCB:
@@ -41,10 +41,11 @@ The following includes which each component in the BOM.csv correlates to the ref
 
 ### Resources
 thanks to all these incredible resources that allowed me to put the cad together
-https://grabcad.com/library/nema-17-bracket-1
-https://grabcad.com/library/2s-7-4v-li-po-battery-1
-https://grabcad.com/library/pololu-scooter-skate-wheel-70x25mm-1
-https://a.pololu-files.com/picture/0J5557.600.jpg?7958d675b1fec8d1f6bb65c62e140bbe
+- https://grabcad.com/library/nema-17-bracket-1
+- https://grabcad.com/library/2s-7-4v-li-po-battery-1
+- https://grabcad.com/library/pololu-scooter-skate-wheel-70x25mm-1
+- https://a.pololu-files.com/picture/0J5557.600.jpg?7958d675b1fec8d1f6bb65c62e140bbe
 
 note: the adapter for the wheel shaft i made myself as i could not find an existing CAD for it, linked instead is a reference sheet i used to make my own
+
 ![image](https://cdn.hackclub.com/019f45df-66b4-7c27-9996-b56375e271c8/paste-1783583695808.png)

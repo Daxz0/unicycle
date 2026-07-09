@@ -1,4 +1,4 @@
-Total time spent: 31hrs
+Total time spent: 33hrs
 
 ## 7/1/2026 
 
@@ -153,4 +153,13 @@ and of course some chamfers + fillets to make everything look good :)
 ![image](https://cdn.hackclub.com/019f4548-89b3-7c09-a340-bec75974f8dc/paste-1783573807880.png)
 ![image](https://cdn.hackclub.com/019f4548-b568-717e-913a-a439cb1ad510/paste-1783573819244.png)
 
-total hours: 4 hrs
+after taking a further look actually, i realized that since i expanded the original platform to allow the PCB to sit properly, i could actually move the battery to be sideways to have even better weight distribution. adding a slit at the top would allow the battery cables to go in properly, i then also need to think of a way to allow myself to put in and take out the battery easily.
+
+![image](https://cdn.hackclub.com/019f45e4-d7ef-784d-a508-561fceba5bfa/paste-1783584052226.png)
+
+actually, in theory the battery shouldnt fall out since the wires up top will be holding it in place and prevent it from pulling out. the other part playing into this is having the exit hole for the battery be higher than the natural sitting position of the battery, since typically the battery should be down due to gravity, making it so that youd have to manually pull up the battery first to take it out.
+
+![image](https://cdn.hackclub.com/019f45f0-9bcd-718e-9791-00291e7acc68/paste-1783584823701.png)
+
+
+total hours: 6 hrs

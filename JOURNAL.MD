@@ -122,3 +122,34 @@ i saved some room on the edges for future holes in the CAD mounting point, which
 theres some spoke errors and stuff but googles telling me its a simple fix so i will ignore ignore.
 
 hours spent: 6 hrs
+
+## 7/7/2026
+
+today is the day for CAD!
+
+found grabcad files for the things I need, imported them onto onshape:
+![image](https://cdn.hackclub.com/019f3e2d-70f9-7690-8945-63fe16689009/paste-1783454593385.png)
+
+trying to figure out battery placements and where to put the PCB, the battery should likely be on the other side of the motor to balance the COG, and the PCB shouldnt matter that much in terms of weight.
+
+hours spent: 2 hrs
+
+## 7/8/2026
+
+i decided to tack on the holes onto the pcb
+![image](https://cdn.hackclub.com/019f4539-ee50-7ca6-b506-40dfe2d178fe/paste-1783572850355.png)
+
+then got then got the a mounting spot for the battery
+![image](https://cdn.hackclub.com/019f453a-2893-7b11-a420-80e153ce2810/paste-1783572865721.png)
+
+i couldnt fing a right mounting spot that matches the holes, so i think ill just hot glue the PCB onto the plastic if it comes to that instead. now the problem is trying to find a suitable spot for the actual pcb since I didnt expect it to be so massive
+
+![image](https://cdn.hackclub.com/019f4543-24d1-78ae-ae76-7c8764cec322/paste-1783573454089.png)
+
+i mean i could just make it thicker to accomodate the PCB properly
+![image](https://cdn.hackclub.com/019f4545-caf0-78b1-a5c3-396a28e7b102/paste-1783573627705.png)
+
+and of course some chamfers + fillets to make everything look good :)
+![image](https://cdn.hackclub.com/019f4548-89b3-7c09-a340-bec75974f8dc/paste-1783573807880.png)
+![image](https://cdn.hackclub.com/019f4548-b568-717e-913a-a439cb1ad510/paste-1783573819244.png)
+

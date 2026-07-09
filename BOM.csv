@@ -1,0 +1,32 @@
+Material,Cost Per,Amount Needed,Self-provided?,HC Funding,Link
+Step Motor Bracket,$1.84,1,No,Yes,https://www.omc-stepperonline.com/nema-17-bracket-for-stepper-motor-and-geared-stepper-motor-alloy-steel-bracket-st-m1
+Ceramic Capacitor ( 0.1µF),$0.34,4,No,Yes,https://www.mouser.com/ProductDetail/KEMET/C0805Y104K1RACTU?qs=2FehpBK1j94DCWpEkocQDw%3D%3D
+Aluminum Capacitor (100µF),$0.01,1,No,Yes,https://us.rs-online.com/product/rs-pro/7111090/70648204/
+Aluminum Capacitor (330µF),$0.269,1,No,Yes,https://www.newark.com/wurth-elektronik/860020373011/capacitor-alu-elec-330uf-16v-radial/dp/99AH1464
+Ceramic Capacitor (22µF),$0.13,4,No,Yes,https://www.digikey.com/en/products/detail/murata-electronics/GRM188R60G226MEA0D/2334877
+Resistor (330Ω),$0.95,1,No,Yes,https://www.pishop.us/product/resistor-330-ohm-16w-5-axial-pack-of-10/
+Power Inductor,$5.31,1,No,Yes,https://www.digikey.com/en/products/detail/pulse-electronics/PE-53117NL/2266021
+Schottky Diode,$0.29,2,No,Yes,https://www.mouser.com/ProductDetail/Diotec-Semiconductor/1N5819?qs=OlC7AqGiEDlzWAEqP18zhw%3D%3D
+General Purpose Diode,$0.17,1,No,Yes,https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/814371
+LED,$0.17,1,No,Yes,https://www.digikey.com/en/products/detail/ams-osram-usa-inc/LG-R971-KN-1-0-20-R18/1227925
+Schottky Diode (silicon),$0.51,1,No,Yes,https://www.digikey.com/en/products/detail/comchip-technology/SS34-HF/10279693
+ESP32-S3-MINI-1-N8,$5.43,1,No,Yes,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-MINI-1-N8/15295890
+Buck Regulator,$5.22,1,No,Yes,https://www.sicstock.com/products/lm2575-5-0bu-2575-lm2575
+LDO Regulator,$0.30,1,No,Yes,https://www.digikey.com/en/products/detail/umw/AMS1117-3-3/17635254
+MPU-6050 (IMU),$12.90,1,No,Yes,https://www.digikey.com.br/en/products/detail/dfrobot/SEN0142/6588492
+Fuse,$1.61,1,No,Yes,https://www.digikey.com/en/products/detail/littelfuse-inc/0501010-WRA/8593220
+Switch,$0.85,1,No,Yes,https://www.digikey.com/en/products/detail/c-k/JS102011SAQN/401-1999-1-ND/1640114
+Battery Connector XT30,$1.02,1,No,Yes,https://www.lcsc.com/product-detail/plug_Changzhou-Amass-Elec-XT30U-F_C99102.html
+USBC Pin,$0.42,1,No,Yes,https://www.lcsc.com/product-detail/USB-Connectors_HCTL-HC-TYPE-C-16P-01A_C2894897.html
+Stepper Motor,$10.49,1,No,Yes,https://www.zyltech.com/nema-17-stepper-motor-1-7-a-0-59-nm-84-ozin-1-3-or-5-pack/
+Motor Driver,$8.95,1,No,Yes,https://www.pololu.com/product/1182
+Wheel,$5.82,1,No,Yes,https://www.pololu.com/product/3272
+Shaft/Adaptor,$7.75,1,No,Yes,https://www.pololu.com/product/2673
+LiPo Battery,$20.46,1,No,Yes,https://www.amainhobbies.com/protek-rc-2s-lipo-20c-battery-7.4v-2100mah-receiver-battery-ptk-5177/p180515
+Resistor (4.7kΩ),$0.75,2,No,Yes,https://www.adafruit.com/product/2783
+Resistor (5.1kΩ),$0.69,2,No,Yes,https://www.digikey.com/en/products/detail/yageo/SQP500JB-5K1/9167827
+Ceramic Capacitor (10nF),$1.29,1,No,Yes,https://www.newark.com/kyocera-avx/kam32lcg3a103ju/smd-mlc-cap-10nf-1kv-c0g-np0-1210/dp/49AM2069
+Ceramic Capacitor (2.2nF),$0.09,1,No,Yes,https://www.jakelectronics.com/productdetail/murataelectronics-grm1885c1h222ja01d-10224
+PCB Fabrication,$~10.00,1,No,Yes,N/A
+M3 Screws,$6.99,1,No,Yes,https://www.amazon.com/Screws-Assortment-Plated-Socket-Washers/dp/B0D3X5CT2J
+Total:,$114.16

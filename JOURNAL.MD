@@ -1,4 +1,4 @@
-Total time spent:
+Total time spent: 31hrs
 
 ## 7/1/2026 
 
@@ -153,3 +153,4 @@ and of course some chamfers + fillets to make everything look good :)
 ![image](https://cdn.hackclub.com/019f4548-89b3-7c09-a340-bec75974f8dc/paste-1783573807880.png)
 ![image](https://cdn.hackclub.com/019f4548-b568-717e-913a-a439cb1ad510/paste-1783573819244.png)
 
+total hours: 4 hrs

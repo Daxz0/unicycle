@@ -36,7 +36,7 @@ The following includes which each component in the BOM.csv correlates to the ref
 | A1               | Motor Driver               |
 
 
-![image](https://cdn.hackclub.com/019f45db-50b8-78f9-b011-60c9e52bca06/paste-1783583428059.png)
+![image](https://cdn.hackclub.com/019f45f4-8500-7116-82d2-675db5745538/paste-1783585079174.png)
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/Daxz0/unicycle/tree/main/pcb)
 
 ### Resources

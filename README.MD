@@ -4,7 +4,7 @@ i was particulary inspired by instagram reels that showed robots demonstrating P
 
 i have some new members for my VEX Robotics team who are going to be learning about PID soon for their robots, so I wanted a nice way to demonstrate the concept since there are a lot of other variables when tuning a VEX robot.
 
-![image](https://cdn.hackclub.com/019f45f0-fe00-7498-b544-27af4fe70314/paste-1783584848591.png)
+![image](https://cdn.hackclub.com/019f45f4-8500-7116-82d2-675db5745538/paste-1783585079174.png)
 
 ### Assembly
 The following includes which each component in the BOM.csv correlates to the reference on the PCB:
@@ -36,7 +36,6 @@ The following includes which each component in the BOM.csv correlates to the ref
 | A1               | Motor Driver               |
 
 
-![image](https://cdn.hackclub.com/019f45f4-8500-7116-82d2-675db5745538/paste-1783585079174.png)
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/Daxz0/unicycle/tree/main/pcb)
 
 ### Resources
